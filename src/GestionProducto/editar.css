@@ -1,0 +1,71 @@
+.small-image {
+  width: 200px; /* Define el ancho deseado para la imagen */
+  height: auto; /* Mantiene la proporción de aspecto original */
+  float: center; /* Hace que la imagen flote a la izquierda */
+  margin-right: 20px; /* Agrega un margen derecho para separarla del contenido */
+}
+
+.editar {
+
+        font-family: Arial, sans-serif;
+        background-color: #5c2baa;
+        padding: 20px;
+        text-align: center;
+      
+      }
+    .container {
+        max-width: 600px;
+        margin: 0 auto;
+        padding: 20px;
+      }
+      
+      .banner img {
+        max-width: 100%;
+        height: auto;
+      }
+      
+      h3 {
+        font-size: 24px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+      }
+      
+      /* Estilos para los campos de entrada */
+      .form-label {
+        font-weight: bold;
+      }
+      
+      .form-control {
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 15px;
+        border: 1px solid #b61919;
+        border-radius: 4px;
+      }
+      
+      /* Estilos para el botón de carga de imagen */
+      .card {
+        padding: 15px;
+        border: 1px solid #661818;
+        border-radius: 4px;
+      }
+      
+      .col-10 input[type="file"] {
+        width: 100%;
+        padding: 8px;
+        border: 1px solid #5a1111;
+        border-radius: 4px;
+      }
+      
+      .col-2 .btn-primary {
+        width: 100%;
+        padding: 10px;
+      }
+      
+      /* Estilos para el botón de actualización */
+      .btn-primary {
+        width: 100%;
+        padding: 10px;
+      }
+      
+
